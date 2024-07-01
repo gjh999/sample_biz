@@ -50,7 +50,7 @@
             <div class="P_MAIN">
                 <div class="inner">
                     <p class="visual">
-                        <span class="t_1">표준프레임워크</span>
+                        <span class="t_1">표준프레임워크 (jenkins)</span>
                         <span class="t_2">경량환경 내부업무</span>
                         <span class="t_3">표준프레임워크 경량환경 내부업무에 대한 전반적인 지원을 약속합니다.</span>
                     </p>
